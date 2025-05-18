@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code_Circuit_Hackathon/static/css/main.ebe1afe2.css",
+    "main.js": "/Code_Circuit_Hackathon/static/js/main.95410e08.js",
+    "index.html": "/Code_Circuit_Hackathon/index.html",
+    "main.ebe1afe2.css.map": "/Code_Circuit_Hackathon/static/css/main.ebe1afe2.css.map",
+    "main.95410e08.js.map": "/Code_Circuit_Hackathon/static/js/main.95410e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe1afe2.css",
+    "static/js/main.95410e08.js"
+  ]
+}
